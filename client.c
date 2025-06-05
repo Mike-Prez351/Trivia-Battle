@@ -1,7 +1,6 @@
 /*******************************************************************************
  * Name        : client.c
  * Author      : Michael Preziosi
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
  ******************************************************************************/
 
 #include <stdio.h>
